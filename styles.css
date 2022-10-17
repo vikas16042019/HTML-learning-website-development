@@ -45,7 +45,7 @@ body
     text-decoration: none;
 }
 
-.list-non-bulets
+.list-non-bullets
 {
     list-style: none;
 }
@@ -56,3 +56,27 @@ body
     padding: 0rem 0.5rem;
 }
 
+.navigation
+{
+    background-color: var(--primary-color);
+    color: white;
+    padding: 1.1rem ;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+
+}
+.navigation .nav-brand
+{
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+.navigation .link
+{
+    color: white;
+}
+
+.navigation .nav-pills
+{
+    text-align: right;
+}
