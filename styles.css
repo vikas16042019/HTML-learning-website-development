@@ -44,3 +44,15 @@ body
     padding: 0.5rem 1rem;
     text-decoration: none;
 }
+
+.list-non-bulets
+{
+    list-style: none;
+}
+
+.list-item-inline
+{
+    display: inline;
+    padding: 0rem 0.5rem;
+}
+
