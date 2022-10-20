@@ -138,3 +138,15 @@ body
 {
     color: white;
 }
+
+.footer .footer-header
+{
+    text-align: center ;
+    font-size: large ;
+    font-weight: bold;
+}
+
+.footer ul
+{
+    padding-inline-start: 0px;
+}
