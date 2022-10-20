@@ -79,7 +79,7 @@ body
 
 .nav-brand
 {
-    color: var(--light-gray) ;
+    color: black ;
 }
 .navigation .link
 {
@@ -134,6 +134,7 @@ body
 .sg
 {
     background-color: var(--slate-gray);
+    
 }
 
 .section .container-center
