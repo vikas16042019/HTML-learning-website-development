@@ -36,12 +36,15 @@ body
     background-color: black;
     border-radius: 0.5rem;
     color: white;
+    margin: 1rem 0.5rem;
 }
 .secondary-link
 {
-    color: var(--primary-color);
-    border: 1px solid var(--primary-color) ;
-    border-radius: 00.5rem;
+    color: black;
+    border: 1px solid black ;
+    border-radius: 0.5rem;
+    margin: 1rem 0.5rem;
+    background-color: white;
 }
 .link
 {
@@ -162,3 +165,4 @@ body
 {
     padding-inline-start: 0px;
 }
+
